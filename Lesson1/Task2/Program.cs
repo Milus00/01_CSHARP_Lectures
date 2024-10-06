@@ -24,3 +24,10 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+int a = 5;
+int b = 4;
+int c = 5;
+int d = 8;
+double result = a * b / (c + d);
+Console.WriteLine(result);
